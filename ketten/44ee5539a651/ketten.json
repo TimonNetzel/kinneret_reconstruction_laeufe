@@ -1,0 +1,53 @@
+{
+  "fingerabdruck_ketten": "44ee5539a651",
+  "einstellungen": {
+    "sampler.kernel": "legacy",
+    "sampler.sample_length": 1000000,
+    "sampler.burn_in": 250000,
+    "sampler.thin": 75,
+    "sampler.n_chains": 1,
+    "sampler.seed": 2023,
+    "sampler.dirichlet_hastings_fix": false,
+    "sampler.exact_gamma_moments": false,
+    "sampler.dispersed_init": false,
+    "sampler.weights_proposal": "dirichlet",
+    "sampler.target_accept": 0.234,
+    "sampler.taxa_prior": "fixed",
+    "sampler.taxa_prior_alpha": 0.5,
+    "sampler.alpha_prior_median": 1.0,
+    "sampler.alpha_prior_log_sd": 1.0,
+    "sampler.dirichlet_spread_factor": 1.0,
+    "sampler.tf_proposal_scale": null,
+    "sampler.tf_bound_probs": [
+      0.05,
+      0.95
+    ],
+    "sampler.beta_shape1": 0.92,
+    "sampler.beta_shape2": 2.77,
+    "sampler.tf_normal_prior": false,
+    "sampler.recent_temp_mean": 10.735555696487427,
+    "sampler.recent_temp_sd": 2.477961143339347,
+    "sampler.recent_pann_mean": 556.2477878146701,
+    "sampler.recent_pann_sd": 134.97964751751925,
+    "sampler.ap_exclude_taxa": [],
+    "sampler.calibration_age_range": null,
+    "sampler.use_calibration": true,
+    "sampler.use_tf_likelihood": true,
+    "sampler.use_taxa_prior": true
+  },
+  "git": "f80382c",
+  "version": "2.0.0.dev0",
+  "python": "3.13.17",
+  "numpy": "2.5.3",
+  "timings_s": {
+    "vorbereitung": 0.09,
+    "sampling": 38.09,
+    "auswertung": 2.82,
+    "diagnostik": 0.08
+  },
+  "abgelegt": "2026-10-28",
+  "aus_lauf": "h_legacy_r2_025",
+  "laeufe": [
+    "h_legacy_r2_025"
+  ]
+}
