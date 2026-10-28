@@ -1,0 +1,139 @@
+{
+  "laeufe": {
+    "a_wie_original": {
+      "fingerabdruck_ketten": "6a3c3ebd4a42",
+      "fingerabdruck": "a9f2414c1f19",
+      "config": "configs/a_wie_original.toml"
+    },
+    "b_hastings": {
+      "fingerabdruck_ketten": "5e97d4650bd8",
+      "fingerabdruck": "0952a27f038d",
+      "config": "configs/b_hastings.toml"
+    },
+    "b_hastings_dirichlet": {
+      "fingerabdruck_ketten": "3b8db38b21b9",
+      "fingerabdruck": "1430150f24c0",
+      "config": "configs/b_hastings_dirichlet.toml"
+    },
+    "c_hastings_gamma": {
+      "fingerabdruck_ketten": "0b7ff600039d",
+      "fingerabdruck": "a790200e13a0",
+      "config": "configs/c_hastings_gamma.toml"
+    },
+    "e_tf_grenzen_1_99": {
+      "fingerabdruck_ketten": "e6b29b1c40a7",
+      "fingerabdruck": "890f29ad3848",
+      "config": "configs/e_tf_grenzen_1_99.toml"
+    },
+    "f_dir_alpha_1": {
+      "fingerabdruck_ketten": "f62aa1d94cca",
+      "fingerabdruck": "87e004b085ae",
+      "config": "configs/f_dir_alpha_1.toml"
+    },
+    "f_dir_alpha_2": {
+      "fingerabdruck_ketten": "fb76b41460e4",
+      "fingerabdruck": "1eced0d9bfcc",
+      "config": "configs/f_dir_alpha_2.toml"
+    },
+    "g_dir_hierarchisch": {
+      "fingerabdruck_ketten": "097802280679",
+      "fingerabdruck": "a2ddcd07ae02",
+      "config": "configs/g_dir_hierarchisch.toml"
+    },
+    "h_legacy_r2_025": {
+      "fingerabdruck_ketten": "44ee5539a651",
+      "fingerabdruck": "9cfb3a184789",
+      "config": "configs/h_legacy_r2_025.toml"
+    },
+    "h_legacy_r2_075": {
+      "fingerabdruck_ketten": "2e79b196e7f1",
+      "fingerabdruck": "3a6c7db3885b",
+      "config": "configs/h_legacy_r2_075.toml"
+    },
+    "i_standard_r2_025": {
+      "fingerabdruck_ketten": "bf70ea22ccd2",
+      "fingerabdruck": "b5a089ce0b5a",
+      "config": "configs/i_standard_r2_025.toml"
+    },
+    "i_standard_r2_075": {
+      "fingerabdruck_ketten": "18beb0e30a25",
+      "fingerabdruck": "e9c3f627afb8",
+      "config": "configs/i_standard_r2_075.toml"
+    },
+    "k_tf_normal_prior": {
+      "fingerabdruck_ketten": "7cc041d81453",
+      "fingerabdruck": "bf829251ad07",
+      "config": "configs/k_tf_normal_prior.toml"
+    },
+    "l_beta_262": {
+      "fingerabdruck_ketten": "c03b05df7b11",
+      "fingerabdruck": "3da64208a0a9",
+      "config": "configs/l_beta_262.toml"
+    },
+    "legacy": {
+      "fingerabdruck_ketten": "55ac41286595",
+      "fingerabdruck": "06029d7b018e",
+      "config": "configs/original.toml"
+    },
+    "m_cru_eng": {
+      "fingerabdruck_ketten": "6216e33fe077",
+      "fingerabdruck": "ada3158475f4",
+      "config": "configs/m_cru_eng.toml"
+    },
+    "m_cru_gitterpunkt": {
+      "fingerabdruck_ketten": "5b0642f5f973",
+      "fingerabdruck": "298d4d2eaa6a",
+      "config": "configs/m_cru_gitterpunkt.toml"
+    },
+    "m_cru_gitterpunkt_eng": {
+      "fingerabdruck_ketten": "68cb7b7fee8f",
+      "fingerabdruck": "bc2ef9108772",
+      "config": "configs/m_cru_gitterpunkt_eng.toml"
+    },
+    "n_mixture_standard": {
+      "fingerabdruck_ketten": "0b7ff600039d",
+      "fingerabdruck": "834a2eba86e4",
+      "config": "configs/n_mixture_v2.toml"
+    },
+    "o_cru_r100": {
+      "fingerabdruck_ketten": "83d432b1f404",
+      "fingerabdruck": "b992be63e270",
+      "config": "configs/o_cru_r100.toml"
+    },
+    "o_cru_r25": {
+      "fingerabdruck_ketten": "97ae3e905ebd",
+      "fingerabdruck": "5f9ed0ade71a",
+      "config": "configs/o_cru_r25.toml"
+    },
+    "o_cru_r50": {
+      "fingerabdruck_ketten": "30333c00e6ee",
+      "fingerabdruck": "2b3ca15d01dd",
+      "config": "configs/o_cru_r50.toml"
+    },
+    "p_ap_ohne_kultur": {
+      "fingerabdruck_ketten": "8aff5ce7ed7e",
+      "fingerabdruck": "80f5e0801358",
+      "config": "configs/p_ap_ohne_kultur.toml"
+    },
+    "p_kalibrierung_ab_4ka": {
+      "fingerabdruck_ketten": "c915617c1ebd",
+      "fingerabdruck": "f571848631fc",
+      "config": "configs/p_kalibrierung_ab_4ka.toml"
+    },
+    "standard_aktuell": {
+      "fingerabdruck_ketten": "0b7ff600039d",
+      "fingerabdruck": "6e5eeac32719",
+      "config": "configs/standard_v2.toml"
+    },
+    "standard_v3": {
+      "fingerabdruck_ketten": "8a1ac930e21a",
+      "fingerabdruck": "e9c3bbb2d27d",
+      "config": "configs/standard.toml"
+    },
+    "v3_mixture": {
+      "fingerabdruck_ketten": "8a1ac930e21a",
+      "fingerabdruck": "f958b01e4626",
+      "config": "configs/v3_mixture.toml"
+    }
+  }
+}
